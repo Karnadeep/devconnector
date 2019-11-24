@@ -1,0 +1,1 @@
+//mongodb+srv://karna:karna123@cluster0-yoyqf.mongodb.net/test?retryWrites=true&w=majority
