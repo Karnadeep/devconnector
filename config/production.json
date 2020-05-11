@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://karna:karna123@ds033831.mlab.com:33831/karna",
+  "jwtSecret": "secrettoken",
+  "githubClientID": "2beff48417117c234d7f",
+  "githubSeceret": "2788bddd1895a90490c32b2f4feef894c5398de8"
+}

@@ -1,11 +1,10 @@
 const mongoose = require('mongoose');
-const config= require('config');
-
+const config = require('config');
 const db = config.get('mongoURI');
 
 const connectDB = async ()=> {
 try{
-    await mongoose.connect('mongodb://karna:karna123@ds033831.mlab.com:33831/karna',{useNewUrlParser : true});
+    await mongoose.connect(db,{useNewUrlParser : true});
 
     console.log('Database Connected');
 }
