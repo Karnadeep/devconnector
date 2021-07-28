@@ -1,5 +1,5 @@
 {
-  "mongoURI": "mongodb://karna:karna123@ds033831.mlab.com:33831/karna",
+  "mongoURI": "mongodb+srv://karna:karna123@cluster0.yoyqf.mongodb.net/test?retryWrites=true&w=majority",
   "jwtSecret": "secrettoken",
   "githubClientID": "2beff48417117c234d7f",
   "githubSeceret": "2788bddd1895a90490c32b2f4feef894c5398de8"
